@@ -128,3 +128,4 @@ yeahmobi.com, 5135082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 113149, RESELLER
 zmaticoo.com, 5135082, RESELLER
+vungle.com, 668f68cc7c55ea0011aa74f3, DIRECT, c107d686becd2d77
